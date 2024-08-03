@@ -17,20 +17,20 @@ kiran.show()
 print("hello")
 
 
-class Manu():
+class anu():
     a=11
     def classMethod(self):
         print("this is room")
-achyuthobj1=Manu()
-achyuthobj=Manu()
+achyuthobj1=anu()
+achyuthobj=anu()
 achyuthobj.classMethod()
 achyuthobj.a
 
 
-class Maggie():
+class chat():
     def display(self):
-        print("this is my sister")
-obj=Maggie()
+        print("this is my snack")
+obj=chat()
 obj.display()
 
 
