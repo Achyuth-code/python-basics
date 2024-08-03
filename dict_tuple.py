@@ -18,11 +18,11 @@ achyuth={"age":20,"email":"gmail","phone":30}
 print(achyuth.keys())
 print(achyuth.values())
 print(achyuth.items())
-achyuth.update({"chinni":"name"})
+achyuth.update({"chinna":"name"})
 print(achyuth)
 
 achyuth={"age":20,"email":"gmail","phone":30}
-achyuth.update({"chinni":"name"})
+achyuth.update({"chinna":"name"})
 achyuth.pop("age")
 print(achyuth)
 
