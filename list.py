@@ -43,9 +43,9 @@
 # print(len(sandy))
 # print(sandy.index(4))
 
-# chinni=[1,2,2,3,4,"chinna"]
-# chinni.append(100)
-# b=chinni.copy()
+# chinnu=[1,2,2,3,4,"chinna"]
+# chinnu.append(100)
+# b=chinnu.copy()
 # print(b)
 
 # chinna=[1,5,2,7,9,3,4,6,8,100,22,45,657,65]
